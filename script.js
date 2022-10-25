@@ -34,7 +34,7 @@ news.addEventListener('click', closeSideNavbar);
 const tutorDetails = [
   {
     id: 1,
-    profileImage: 'images/tutor_01.png',
+    profileImage: 'images/tutor_01.jpg',
     fullName: 'Yochai Benkler',
     education:
       'Berkman Professor of Software Engineering studied at Hardward Science School.',
@@ -43,7 +43,7 @@ const tutorDetails = [
   },
   {
     id: 2,
-    profileImage: 'images/tutor_02.png',
+    profileImage: 'images/tutor_02.jpg',
     fullName: 'Jeon Gil-nam',
     education:
       'Berkman Professor of Sofware Engineering studied at MIT Science School.',
@@ -52,7 +52,7 @@ const tutorDetails = [
   },
   {
     id: 3,
-    profileImage: 'images/tutor_03.png',
+    profileImage: 'images/tutor_03.jpg',
     fullName: 'Noh So-young',
     education: 'Noh Studied Computer Science at Seuol National University.',
     experience:
@@ -60,7 +60,7 @@ const tutorDetails = [
   },
   {
     id: 4,
-    profileImage: 'images/tutor_04.png',
+    profileImage: 'images/tutor_04.jpg',
     fullName: 'Julia Leda',
     education: 'Julia studied Computer Science at Oxford University.',
     experience:
@@ -68,7 +68,7 @@ const tutorDetails = [
   },
   {
     id: 5,
-    profileImage: 'images/tutor_05.png',
+    profileImage: 'images/tutor_05.jpg',
     fullName: 'Layla Tretikov',
     education: 'Layla studeid Software Engineering at Microvers',
     experience:
@@ -76,7 +76,7 @@ const tutorDetails = [
   },
   {
     id: 6,
-    profileImage: 'images/tutor_06.png',
+    profileImage: 'images/tutor_06.jpg',
     fullName: 'Ryan Merkly',
     education: 'Ryan studied Software Engineering at California University',
     experience: 'Ryan has 12 years of teaching experience at Global Developers',
