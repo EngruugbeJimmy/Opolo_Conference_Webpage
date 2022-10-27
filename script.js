@@ -35,51 +35,51 @@ const tutorDetails = [
   {
     id: 1,
     profileImage: 'images/tutor_01.jpg',
-    fullName: 'Yochai Benkler',
+    fullName: 'David Reevesr',
     education:
-      'Berkman Professor of Software Engineering studied at Hardward Science School.',
+      'Harvad John A. Paulson School of Engineering and Applied Science',
     experience:
-      'Benkler has 20 years of teaching experience and, published 20 research papers.',
+      'Benkler has 20 years of teaching experience in software engineering.',
   },
   {
     id: 2,
     profileImage: 'images/tutor_02.jpg',
-    fullName: 'Jeon Gil-nam',
+    fullName: 'Amin Ned',
     education:
-      'Berkman Professor of Sofware Engineering studied at MIT Science School.',
+      'Assistant Professor Harvad John A. PaulsonSchool of Engineering and Applied Science.',
     experience:
-      'Jeon worked as senior front-End engineer for Google and has 10 years of teaching experience.',
+      'Amin, Specialises in Artificial Intelligence and Programming Languages.',
   },
   {
     id: 3,
     profileImage: 'images/tutor_03.jpg',
-    fullName: 'Noh So-young',
-    education: 'Noh Studied Computer Science at Seuol National University.',
+    fullName: 'Mike A',
+    education: 'Mike, Studied Computer Science at Obafemi Awolowo University.',
     experience:
-      'Noh worked as a Full-Stack engineer for Metavers and, has 7 years of teaching experience.',
+      'Radcliffe Alumnae Professor and Researcher at Opolo Specialises in Machine Learning and Theory of Computation.',
   },
   {
     id: 4,
     profileImage: 'images/tutor_04.jpg',
-    fullName: 'Julia Leda',
-    education: 'Julia studied Computer Science at Oxford University.',
+    fullName: 'John Brooks',
+    education: 'Haley Family Professor of Computer Science.',
     experience:
-      'Julia has 15 years of teaching experience at Global Developers.',
+      'John has 15 years of teaching experience and Specialises  in computer architecture.',
   },
   {
     id: 5,
     profileImage: 'images/tutor_05.jpg',
-    fullName: 'Layla Tretikov',
-    education: 'Layla studeid Software Engineering at Microvers',
+    fullName: 'Barak  Greg',
+    education: 'Gordon McKay Professor of Computer Science',
     experience:
-      'Layla has 7 years of teaching experience at Global Developers.',
+      'Specialises in Machine Learning and Theory of Computation.',
   },
   {
     id: 6,
     profileImage: 'images/tutor_06.jpg',
-    fullName: 'Ryan Merkly',
-    education: 'Ryan studied Software Engineering at California University',
-    experience: 'Ryan has 12 years of teaching experience at Global Developers',
+    fullName: 'James Gregory',
+    education: 'Assistant Professor of Computer Science at Florida state University',
+    experience: 'James, has 12 years of lecturing databases and big data engineering',
   },
 ];
 
