@@ -104,7 +104,7 @@ a {
 
 .supporting-text-model {
   width: 90%;
-  height: 90px;
+  height: 150px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -152,6 +152,8 @@ a {
   font-size: 16px;
   font-weight: 400;
   color: #2b2828;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .main-content-container {
