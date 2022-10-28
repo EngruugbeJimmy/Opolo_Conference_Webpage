@@ -2,15 +2,17 @@
 For this repository, I've created html templates and styling files in order to built a responsive conference website, which can help to easy explorate profiles from differents devices.
 
 ## Built With 🔨
--HTML
--CSS
--JS
--Git & Github
+
+- HTML
+- CSS
+- JS
+- Git & Github
 
 ## Live Demo (if available)
 Live Demo [Link](https://engruugbejimmy.github.io/Opolo_Conference_Webpage/)
 
 ## Install
+
 To get a local copy up and running follow these simple example steps.
 
 - Open terminal
@@ -23,12 +25,12 @@ Then go to the main folder using the next command:
 Finally, run diplay the index.html file in your local browser, or also, you can use Live Server in Visual Studio Code.
 
 ## Prerequisites
--IDE to edit and run the code (We use Visual Studio Code 🔥).
--Git to versionning your work.
+- IDE to edit and run the code (We use Visual Studio Code 🔥).
+- Git to versionning your work.
 
 ## Usage
--For anyone who wants to practice html5 or/and css3
--For anyone who wants to create his own portfolio.
+- For anyone who wants to practice html5 or/and css3
+- For anyone who wants to create his own portfolio.
 
 
 ## Authors
@@ -38,14 +40,14 @@ Finally, run diplay the index.html file in your local browser, or also, you can 
 - LinkedIn: [@abah-james-ugbede](https://www.linkedin.com/in/abah-james-ugbede-356982159/)
 
 🤝 Contributing
--Contributions, issues, and feature requests are welcome!
+- Contributions, issues, and feature requests are welcome!
 
 Show your support
--Give a ⭐️ if you like this project!
+- Give a ⭐️ if you like this project!
 
 ## Acknowledgments
--Hat tip to anyone whose code was used 🔰
+- Hat tip to anyone whose code was used 🔰
 - Inspiration 💘
 - Microverse program ⚡
--My standup team 🏹
+- My standup team 🏹
 - My family's support 🙌
