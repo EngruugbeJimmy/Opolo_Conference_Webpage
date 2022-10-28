@@ -46,7 +46,7 @@ const tutorDetails = [
     profileImage: 'images/tutor_02.jpg',
     fullName: 'Amin Ned',
     education:
-      'Assistant Professor Harvad John A. PaulsonSchool of Engineering and Applied Science.',
+      'Harvad John A. PaulsonSchool of Engineering .',
     experience:
       'Amin, Specialises in Artificial Intelligence and Programming Languages.',
   },
