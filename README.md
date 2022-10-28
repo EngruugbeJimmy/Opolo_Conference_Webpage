@@ -30,11 +30,12 @@ Finally, run diplay the index.html file in your local browser, or also, you can 
 -For anyone who wants to practice html5 or/and css3
 -For anyone who wants to create his own portfolio.
 
+
 ## Authors
 👤 ABAH JAMES
 
--GitHub: @EngruugbeJimmy
--LinkedIn: @abah-james-ugbede
+- GitHub: [@EngruugbeJimmy](https://github.com/EngruugbeJimmy)
+- LinkedIn: [@abah-james-ugbede](https://www.linkedin.com/in/abah-james-ugbede-356982159/)
 
 🤝 Contributing
 -Contributions, issues, and feature requests are welcome!
