@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 ## Opolo_Global_Page
 For this repository, I've created html templates and styling files in order to built a responsive conference website, which can help to easy explorate profiles from differents devices.
 
