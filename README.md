@@ -1,7 +1,7 @@
-##Opolo_Global_Page
+## Opolo_Global_Page
 For this repository, I've created html templates and styling files in order to built a responsive conference website, which can help to easy explorate profiles from differents devices.
 
-##Built With 🔨
+## Built With 🔨
 -HTML
 -CSS
 -JS
@@ -10,7 +10,7 @@ For this repository, I've created html templates and styling files in order to b
 ## Live Demo (if available)
 Live Demo [Link](https://engruugbejimmy.github.io/Opolo_Conference_Webpage/)
 
-#Install
+## Install
 To get a local copy up and running follow these simple example steps.
 
 - Open terminal
@@ -22,15 +22,15 @@ Then go to the main folder using the next command:
 
 Finally, run diplay the index.html file in your local browser, or also, you can use Live Server in Visual Studio Code.
 
-#Prerequisites
+## Prerequisites
 -IDE to edit and run the code (We use Visual Studio Code 🔥).
 -Git to versionning your work.
 
-#Usage
+## Usage
 -For anyone who wants to practice html5 or/and css3
 -For anyone who wants to create his own portfolio.
 
-#Authors
+## Authors
 👤 ABAH JAMES
 
 -GitHub: @EngruugbeJimmy
@@ -42,7 +42,7 @@ Finally, run diplay the index.html file in your local browser, or also, you can 
 Show your support
 -Give a ⭐️ if you like this project!
 
-#Acknowledgments
+## Acknowledgments
 -Hat tip to anyone whose code was used 🔰
 - Inspiration 💘
 - Microverse program ⚡
