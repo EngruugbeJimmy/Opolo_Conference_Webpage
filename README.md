@@ -1,13 +1,14 @@
-Opolo_Global_Page
+##Opolo_Global_Page
 For this repository, I've created html templates and styling files in order to built a responsive conference website, which can help to easy explorate profiles from differents devices.
 
-Built With 🔨
+##Built With 🔨
 HTML
 CSS
 JS
 Git & Github
-Live Demo
-Live Demo Link
+
+## Live Demo (if available)
+Live Demo [Link](https://engruugbejimmy.github.io/Opolo_Conference_Webpage/)
 
 Install
 To get a local copy up and running follow these simple example steps.
