@@ -13,6 +13,9 @@ For this repository, I've created html templates and styling files in order to b
 ## Live Demo (if available)
 Live Demo [Link](https://engruugbejimmy.github.io/Opolo_Conference_Webpage/)
 
+## Video Demo
+Video Introduction[Link](https://www.loom.com/share/9d7c65a1c21e4867b5cf2a77c12c010d)
+
 ## Install
 
 To get a local copy up and running follow these simple example steps.
@@ -57,3 +60,5 @@ Show your support
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
+<<<<<<< HEAD
+=======
