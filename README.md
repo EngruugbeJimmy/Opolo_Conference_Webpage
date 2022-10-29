@@ -52,10 +52,10 @@ Show your support
 
 ## Acknowledgments
 - Hat tip to anyone whose code was used 🔰
-- Inspiration 💘
-- Microverse program ⚡
-- My standup team 🏹
-- My family's support 🙌
+- Original design is by:[Cindy Shin in Behance](https://www.behance.net/adagio07)
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
