@@ -44,7 +44,7 @@ Finally, run diplay the index.html file in your local browser, or also, you can 
 - GitHub: [@EngruugbeJimmy](https://github.com/EngruugbeJimmy)
 - LinkedIn: [@abah-james-ugbede](https://www.linkedin.com/in/abah-james-ugbede-356982159/)
 
-🤝 Contributing
+🤝 Contributinggit -vv
 - Contributions, issues, and feature requests are welcome!
 
 Show your support
